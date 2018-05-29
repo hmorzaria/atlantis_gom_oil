@@ -12,3 +12,8 @@ We performed an uncertainty analysis for the Atlantis ecosystem model of the Gul
 2. atlantis_replicate.md. Code to create a replicate from your template and customize it, including setting up Dropbox and compiling Atlantis.
 3. atlantis_server.md. Manage and use your server.
 
+#### R code for emulators
+
+1. Atlantis_emulator_models.R. Code to build emulators using machine learning based in Atlantis biomass and catch ouputs.
+2. Atlantis_emulator_models.R. Predicts biomass and catch for complete parameter space using emulators.
+3. Atlantis_emulator_figures.R Produces figures in the paper for emulations and simulations.
