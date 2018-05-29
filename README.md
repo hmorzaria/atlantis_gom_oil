@@ -1,4 +1,5 @@
 # Code for the paper "Diet composition uncertainty determines impacts on fisheries following an oil spill", Morzaria-Luna et al. 2018
+https://doi.org/10.1016/j.ecoser.2018.05.002
 
 ### Data is available through the Gulf of Mexico Research Initiative Information & Data Cooperative (GRIIDC) repository at https://data.gulfresearchinitiative.org/data/R6.x805.000:0002 [DOI:10.7266/N71G0JSG]
 
